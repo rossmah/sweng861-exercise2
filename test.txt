@@ -1,1 +1,3 @@
-Adding text to test.txt to satisfy SWENG861 Exercise 2 - Step 19.
+Adding text to test.txt to satisfy SWENG861 Exercise 2 - Step 19.n
+
+Adding more text to show how the "git stash" command works.
